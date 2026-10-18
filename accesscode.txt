@@ -1,2 +1,3 @@
 cmd01 file get
 cmd02 file get
+서버 정상 전송 확인
